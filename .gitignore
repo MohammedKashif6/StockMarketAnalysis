@@ -7,6 +7,7 @@ __pycache__/
 *.pyo
 
 # Ignore data outputs and intermediate files
+data/cleaned/
 database/
 
 # Ignore OS and IDE-specific files
