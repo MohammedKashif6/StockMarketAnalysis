@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore data outputs and intermediate files
+data/cleaned/
+database/
+outputs/
+
+# Ignore OS and IDE-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
