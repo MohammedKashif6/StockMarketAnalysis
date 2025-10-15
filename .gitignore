@@ -7,9 +7,7 @@ __pycache__/
 *.pyo
 
 # Ignore data outputs and intermediate files
-data/cleaned/
 database/
-outputs/
 
 # Ignore OS and IDE-specific files
 .vscode/
